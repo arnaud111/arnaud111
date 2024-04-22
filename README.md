@@ -1,6 +1,3 @@
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=arnaud111&show_icons=true&theme=radical" />
-</a>
-<a href="#">
   <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api/top-langs/?username=arnaud111&size_weight=0.5&count_weight=0.5&hide=Jupyter%20Notebook,C&theme=rose_pine)" />
 </a>
